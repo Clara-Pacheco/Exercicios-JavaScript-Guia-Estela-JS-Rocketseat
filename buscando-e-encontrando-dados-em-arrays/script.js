@@ -114,5 +114,3 @@ function booksOfAuthor(author){
 
 booksOfAuthor('Augusto Cury')
 booksOfAuthor("George S. Clason")
-
-
